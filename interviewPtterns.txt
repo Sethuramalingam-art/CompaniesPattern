@@ -7,6 +7,28 @@ Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problem
 
 #Nagarro
 
-online Test -> MCQ's with one Javascript problems but all test cases should be pass
+online Test -> MCQ's with one Javascript problems but all test cases should be pass -> no internet
 Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
 Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
+
+#BNY
+
+online Test -> MCQ's both frontend and backend but simple problems like joins in sql
+Tec.round 1 -> Javascript / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / Angular -> tough -> core javascript problems and polyfills / core Angular problems (Core Angular validators)
+
+#infineon technologies
+
+Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
+
+#Cisco
+Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
+Technical Manager round -> system design questions
+
+#Samsung Harman
+Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
+
+
