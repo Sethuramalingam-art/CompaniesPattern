@@ -1,0 +1,12 @@
+#EPAM
+
+online test -> easy we can refer internet -> MCQs only
+Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
+
+
+#Nagarro
+
+online Test -> MCQ's with one Javascript problems but all test cases should be pass
+Tec.round 1 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills
+Tec. round 2 -> Javascript / React / Angular -> tough -> core javascript problems and polyfills / core react js problems 
